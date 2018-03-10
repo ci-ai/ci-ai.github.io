@@ -1,2 +1,1 @@
-# ci-ai.github.io
-landing page
+[ci-ai.github.io](https://ci-ai.github.io)
